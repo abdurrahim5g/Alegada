@@ -1,0 +1,1040 @@
+/* media quary max-width-1600px start 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1600px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+
+nav.nagivation-bar {
+    padding: 5px 30px;
+}
+
+.manu-area ul li a {
+    padding: 4px 12px;
+}
+
+.header-contact {
+    padding: 0 0 0 20px;
+}
+
+.manu-area ul.manu {
+    padding: 0 10px 0 0;
+}
+
+.slicknav_menu{
+	display: none;
+}
+
+/* header area end
+----------------------------------------------------------------------*/
+
+
+
+
+
+
+}
+/* media quary max-width-1600px end 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+/* media quary max-width-1400px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1400px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+
+header.header-area .logo-area a span {
+    font-size: 28px;
+}
+
+section.breadcrumb-area {
+    padding: 200px 100px 130px;
+}
+
+header.header-area .logo-area a img {
+    max-width: 40px;
+}
+
+.manu-area ul li a {
+    font-size: 14px;
+    padding: 4px 9px;
+}
+
+.header-contact li {
+    font-size: 14px;
+}
+
+.header-contact {
+    padding: 0 0 0 10px;
+}
+
+section.breadcrumb-area.heor-area .hero-slider-single {
+    padding: 230px 100px 180px;
+}
+
+section.breadcrumb-area.heor-area .owl-nav .owl-prev {
+    left: 30px;
+}
+
+section.breadcrumb-area.heor-area .owl-nav .owl-next {
+    right: 30px;
+}
+
+section.breadcrumb-area.heor-area h1 {
+    font-size: 48px;
+}
+
+
+
+/* header area end
+----------------------------------------------------------------------*/
+
+
+
+}
+/* media quary max-width-1400px end 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+/* media quary max-width-1200px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 1200px) {
+
+/* header area start
+----------------------------------------------------------------------*/
+
+.slicknav_menu{
+	display: block;
+	position: absolute;
+	width: 100%;
+	z-index: 99999;
+	background: transparent;
+	padding: 15px 5px;
+}
+
+.slicknav_menu .slicknav_nav{
+	background: #151C32;
+	padding-top: 15px;
+}
+
+.slicknav_menu .slicknav_nav a {
+	font-weight: 500;
+	border-radius: 0;
+	padding: 5px  30px;
+	outline: none;
+}
+
+.slicknav_btn {
+    margin: 10px 5px 15px;
+    position: relative;
+    transform: translateX(-15px);
+    background: #151c32;
+}
+
+nav.nagivation-bar {
+    margin: 0;
+}
+
+header.header-area {
+    flex: 0 0 60%;
+    max-width: 60%;
+    z-index: 99999999;
+}
+
+header.header-area .logo-area {
+    margin-top: 15px;   
+}
+
+header.header-area .manu-area {
+    display: none !important;
+}
+
+section.news-letter-area .container:before {
+    left: 4%;
+}
+
+section.breadcrumb-area.heor-area h1 {
+    font-size: 42px;
+}
+
+.breadcrumb-contant.hero-content p {
+    font-size: 16px;
+}
+
+.hero-btn .box-btn a {
+    width: 150px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+}
+
+/* header area start
+----------------------------------------------------------------------*/
+
+
+/* three-features-are start
+------------------------------------------------------------*/
+
+section.three-features-area .col-lg-8, section.three-features-area .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+/* three-features-are end
+------------------------------------------------------------*/
+
+/* tag-line & ...................area start------------------------*/
+.tag-line-content {
+    padding: 0 20px 0 0;
+}
+
+section.tag-line.case-submit-form .case-form {
+    padding: 0 0 0 20px;
+}
+/* tag-line & ...................area end------------------------*/
+
+
+/* breadcrumb area start ----------------------------*/
+
+section.best-attorneys-area .attorneys-author {
+    padding: 0 15px 0 0 !important;
+}
+
+.footer-social ul li a {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.banner ul li a {
+    font-size: 18px;
+}
+section.contact-map iframe {
+    max-height: 400px;
+}
+
+}
+/* media quary max-width-1200px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+/* media quary max-width-991px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 991px) {
+
+.container{
+	max-width: 767px;
+}
+section.breadcrumb-area.heor-area .hero-slider-single {
+    padding: 210px 70px 125px;
+}
+
+.breadcrumb-contant.hero-content p {
+    font-size: 14px;
+}
+
+
+/* about-us area start
+---------------------------------------------------------*/
+section.about-us-area .col-lg-4, section.about-us-area .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 0 0 40px;
+}
+
+section.about-us-area .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.intro-title h4:before, .intro-title h4:after {
+    width: 100%;
+}
+/* about-us area end
+---------------------------------------------------------*/
+
+
+/*featured-area start------------------------*/
+section.featured-area{
+	border: 0;
+}
+section.featured-area .col-lg-3{
+	border: .1px solid #D7B17C;
+}
+section.featured-area .col-lg-3 .single-featured-area{
+	padding: 40px 15%;
+}
+section.area-of-expettise {
+    padding: 80px 0 40px;
+}
+
+section.area-of-expettise .single-expertise-item {
+    margin: 0 0 40px;
+}
+
+section.area-of-expettise .col-lg-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.section-title h2 {
+    font-size: 30px !important;
+}
+
+.section-title span {
+    font-size: 13px;
+}
+
+/*featured-area end------------------------*/
+
+/*gat-started-area start ------------------------------------------*/
+section.gat-started-area .container .get-started-content {
+    position: static;
+    margin: 0 0 40px 0;
+}
+
+section.gat-started-area {
+    border: 0;
+    padding: 80px 0 40px;
+}
+.counter-up {
+    justify-content: center !important;
+}
+
+.counter-up .single-counter-area {
+    flex: 0 0 30%;
+    max-width: 30%;
+    text-align: center;
+}
+
+.counter-up .single-counter-area h2 {
+    display: inline-block;
+}
+
+.counter-up .single-counter-area span {
+    display: block;
+}
+
+.counter-up .single-counter-area h2 span {
+    display: inline-block;
+}
+
+
+/*gat-started-area end ------------------------------------------*/
+
+
+/*section.case-studies-area start --------------------------------*/
+
+section.case-studies-area {
+    padding: 80px 0 0 0;
+}
+
+section.case-studies-area .section-title.center.expertise-title {
+    margin: 0 0 30px;
+}
+
+.case-manu {
+    margin: 0 0 10px;
+}
+
+.case-manu ul li {
+    margin: 0 10px;
+}
+
+.case-studies {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+/*section.case-studies-area end --------------------------------*/
+
+
+
+/*section.case-studies-area start --------------------------------*/
+.case-manu ul li a {
+    font-size: 14px;
+}
+
+.case-manu ul li {
+    margin: 0 0 5px;
+    display: block;
+    text-align: left;
+}
+
+section.call-us-information-area {
+    border: 10px solid #fff;
+    padding: 65px 0;
+}
+
+.call-us-content h2 {
+    font-size: 25px;
+}
+
+.call-us-content .call a {
+    font-size: 38px;
+}
+
+.call-us-content .call a i {
+    font-size: 35px;
+}
+
+.call-us-content p {
+    font-size: 16px;
+}
+
+.call-us-content p br {
+    display: none;
+}
+
+.call-us-content .box-btn a {
+    line-height: 43px;
+    font-size: 14px;
+}
+/*section.case-studies-area end --------------------------------*/
+
+
+/*best-attorneys-area area start ------------------------------------- */
+section.best-attorneys-area{padding: 80px 0;}
+section.best-attorneys-area .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: auto;
+}
+.attorneys-about .section-title.left h2 br {
+    display: none;
+}
+
+section.best-attorneys-area .attorneys-author {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: 40px 0 0 0;
+}
+
+section.best-attorneys-area .attorneys-author .d-flex {
+    flex-wrap: wrap;
+}
+
+section.best-attorneys-area .attorneys-author .col-lg-4 {
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 0 15px;
+    flex: 0 0 80%;
+}
+
+.single-attorneys-item img {
+    width: 100%;
+}
+
+/*best-attorneys-area area end ------------------------------------- */
+
+
+.intro-play-btn.intro {
+    padding: 180px 0 160px;
+}
+
+/*testmonial area start------------------------------*/
+section.testmonial-area {
+    padding: 80px 0;
+}
+
+section.testmonial-area .section-title.center {
+    margin-bottom: 30px;
+}
+
+.testmonial-content p {
+    font-size: 16px;
+}
+
+section.testmonial-area .testmonial-content {
+    padding: 0 50px;
+}
+
+.testmonial-content p br {
+    display: none;
+}
+
+.testmonial-author-position {
+    margin: 40px 0 0 0;
+}
+/*testmonial area end------------------------------*/
+
+
+/*tag-line area start ----------------------------------------*/
+section.tag-line.case-submit-form .col-lg-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.tag-line-content {
+    margin: 0 0 50px;
+}
+
+section.tag-line.case-submit-form {
+    padding: 80px 0;
+}
+
+.tag-line-content h2 {
+    font-size: 28px;
+}
+
+section.tag-line.case-submit-form .case-form p {
+    font-size: 16px;
+}
+
+section.tag-line.case-submit-form .case-form {
+    padding: 0;
+}
+
+.tag-line-content {
+    padding: 0;
+}
+/*tag-line area end  ----------------------------------------*/
+
+/*law news area start -------------------------------------*/
+section.law-news-area {
+    padding: 80px 0;
+}
+
+section.law-news-area .single-news-item {
+    max-width: 480px;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+/*law news area end -------------------------------------*/
+
+
+/* news-latter-area start ----------------------------------------*/
+section.news-letter-area {
+    padding: 30px 0;
+}
+
+section.news-letter-area .news-letter-content {
+    margin: 0 0 30px;
+}
+
+.news-letter-content h4 {
+    padding: 0 0 0 65px;
+    font-size: 20px;
+}
+.news-letter-content h4::before {
+    width: 45px;
+}
+.news-letter-content h4:before {
+    left: 0;
+}
+
+/* news-latter-area end ----------------------------------------*/
+
+
+/* footer-area start ----------------------------*/
+.single-footer-item.quick-links {
+    padding: 0;
+}
+footer.footer-area {
+    padding: 80px 0 30px;
+}
+/* footer-area start ----------------------------*/
+
+section.breadcrumb-area h2 {
+    font-size: 35px;
+    margin: 10px 0 0 0;
+}
+
+section.breadcrumb-area span {
+    font-size: 14px;
+}
+
+section.intro-text .intro-content.right {
+    padding: 0;
+}
+
+section.intro-text {
+    padding: 80px 0 40px;
+}
+
+.single-option {
+    margin: 0 0 40px;
+}
+
+.firms-info-content {
+    padding: 80px 10% 60px;
+}
+section.information-area .container-fluid {
+    padding: 80px 0 0 0;
+}
+
+.img-box-item {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin: auto;
+    max-height: 545px;
+    position: relative;
+}
+
+.img-box.d-flex {
+    flex-wrap: wrap;
+}
+
+.number-box.d-flex .single-number-box {
+    flex: 0 0 50%;
+    margin: 0 0 40px;
+}
+
+.number-box.d-flex {
+    flex-wrap: wrap;
+    padding: 60px 0 20px;
+}
+
+.img-box-item img {
+    max-height: 545px;
+}
+section.latest-news-area {
+    padding: 80px 0 20px;
+}
+
+.widget-area {
+    margin: 40px 0 0 0;
+}
+.latest-news-content {
+    padding: 0;
+}
+.widget-area .footer-social {
+    text-align: left;
+}
+.single-news-item.card.bg-0 {
+    padding: 38px 0 0 0;
+}
+.single-comments-area {
+    padding-left: 80px;
+}
+
+.single-comments-area img {
+    width: 60px;
+}
+
+.alegada-about-widget.single-widget-area img {
+    width: 100px;
+}
+
+section.contact-area {
+    padding: 80px 0;
+}
+
+section.contact-area .col-lg-5 .single-contact-info {
+    margin: 0 0 40px;
+}
+
+section.contact-map iframe {
+    max-height: 350px;
+}
+section.quick-contact-from {
+    padding: 80px 0 40px;
+}
+
+.section-heading h2 {
+    font-size: 30px;
+}
+
+.section-heading span {
+    font-size: 14px;
+}
+
+.form-input input[type="submit"] {
+    max-width: 150px;
+    line-height: 40px;
+    font-size: 13px;
+}
+
+.form-input {
+    margin: 0 0 20px;
+}
+.overview-content {
+    margin: 40px 0 0 0;
+}
+
+.box-btn a {
+    line-height: 1;
+}
+
+section.expertise-area {
+    padding: 80px 0;
+}
+.single-expertise-item {
+    margin: 0 0 50px 0;
+}
+section.skill-information-area {
+    padding: 60px 0 30px;
+}
+
+.single-progress-item h6 span {
+    color: #cfa66b;
+}
+
+section.intro-text-area .col-lg-3, section.intro-text-area .col-lg-5 {
+    margin: 0 0 40px;
+}
+
+section.intro-text-area {
+    padding: 80px 0;
+}
+
+section.intro-text-area .col-lg-5 .intro-content {
+    padding: 0;
+}
+
+.intro-content span {
+    line-height: 1;
+}
+
+section.service-details-area {
+    padding: 100px 0 40px;
+}
+
+.service-title h2 {
+    font-size: 30px;
+    line-height: 1;
+}
+
+.single-attorneys-item {
+    margin: 0 0 30px;
+}
+
+.our-attorneys .col-lg-4 {
+    margin: auto;
+}
+
+
+
+}
+/* media quary max-width-991px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* media quary max-width-767px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 767px) {
+
+.container{
+	max-width: 580px;
+}
+
+section.breadcrumb-area.heor-area h1 {
+    font-size: 35px;
+}
+
+section.breadcrumb-area.heor-area .owl-nav .owl-prev {
+    left: 15px;
+}
+
+section.breadcrumb-area.heor-area .owl-nav .owl-next {
+    right: 15px;
+}
+
+section.breadcrumb-area span::before{
+	display: none;
+}
+
+
+/* three option area start
+--------------------------------------------------------------------------*/
+.single-option .option-img {
+    min-height: 120px;
+}
+
+.single-option .option-img img {
+    max-width: 40px;
+}
+
+.single-option .option-content h4 {
+    font-size: 20px;
+}
+
+.single-option .option-content p {
+    font-size: 14px;
+}
+
+section.three-features-area .col-lg-4 .single-option h2 {
+    font-size: 60px;
+}
+
+section.three-features-area .col-lg-4 .single-option p {
+    font-size: 20px;
+}
+
+section.three-features-area .col-lg-4 .single-option {height: 130px;}
+
+
+/* three option area end
+--------------------------------------------------------------------------*/
+
+/*area-of-expettise start ----------------------------*/
+section.area-of-expettise .col-lg-4 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+/*area-of-expettise end ----------------------------*/
+
+.case-studies {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+/*call-us-information-area start -------------------------------------------*/
+.call-us-content h2 {
+    font-size: 22px;
+}
+
+.call-us-content .call a {
+    font-size: 32px;
+}
+
+.call-us-content p {
+    font-size: 14px;
+}
+
+.call-us-content .box-btn a {
+    line-height: 38px;
+    font-size: 12px;
+}
+/*call-us-information-area end  -------------------------------------------*/
+
+/* testmonial area start ---------------------------------------------*/
+section.testmonial-area .testmonial-content {
+    padding: 0;
+}
+
+section.testmonial-area .owl-dots {
+    display: none;
+}
+/* testmonial area start ---------------------------------------------*/
+
+/* tag-line area start -----------------------------*/
+section.tag-line.case-submit-form .col-lg-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+
+/*footer.footer-area start ------------------------------------*/
+footer.footer-area .copyright p {
+    text-align: center;
+}
+.footer-social {
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.footer-social.clearfix ul.float-right {
+    float: none !important;
+}
+
+/*footer.footer-area end ------------------------------------*/
+
+section.breadcrumb-area {
+    text-align: center;
+    padding: 180px 15px 130px;
+    padding-right: 15px;
+}
+h4.title:before {
+    display: none;
+}
+
+h4.title {
+    font-size: 22px;
+}
+
+.intro-content p {
+    font-size: 14px;
+}
+
+section.intro-text .intro-content h4.italic {
+    font-size: 20px;
+}
+
+.single-option .option-content p {
+    font-size: 12px;
+}
+
+.single-option .option-content h4 {
+    font-size: 16px;
+}
+.number-box.d-flex .single-number-box {
+    flex: 0 0 100%;
+    max-width: 100%;
+    border: 0;
+}
+
+.latest-news-content .single-news-item.card {
+    padding: 30px;
+}
+
+.single-news-item.card .blog-testmonial {
+    padding: 0 20px 0 45px;
+}
+
+.single-news-item.card .blog-testmonial img {
+    width: 30px;
+}
+
+.blog-testmonial h4 {
+    font-size: 20px;
+}
+
+.blog-meta ul li:nth-child(2) {
+    display: none !important;
+}
+
+.contact-table-wrap p span {
+    padding: 0;
+    width: 110px;
+    display: block;
+}
+
+.contact-table-wrap ul:first-child {
+    padding: 0;
+    width: 110px;
+    display: block;
+}
+
+
+
+.single-contact-info .footer-social ul {
+    margin: 30px 0 0 0;
+}
+
+.work-time.text-center {
+    padding: 15px 0;
+}
+
+section.contact-map iframe {
+    max-height: 280px;
+}
+.subsctibe input[type="email"] {
+    padding: 10px 25px;
+}
+
+.subsctibe input[type="submit"] {
+    max-width: 110px;
+    font-size: 12px;
+}
+
+.section-title h2 {
+    font-size: 28px !important;
+}
+
+
+}
+/* media quary max-width-767px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+/* media quary max-width-575.98px start 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 575.98px) {
+
+.container{
+	max-width: 480px;
+}
+
+.slicknav_menu .slicknav_menutxt {
+    display: none;
+}
+
+.slicknav_menu .slicknav_icon {
+    margin: 0;
+}
+
+nav.nagivation-bar {
+    padding: 5px 0;
+}
+
+header.header-area .logo-area a img {
+    width: 30px;
+}
+
+header.header-area .logo-area a span {
+    font-size: 20px;
+}
+
+.slicknav_btn {
+    transform: translateX(0);
+    margin: 9px 9px 0 0;
+}
+
+section.breadcrumb-area.heor-area .hero-slider-single {
+    padding: 150px 15px 100px;
+}
+
+.hero-btn .box-btn a {
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 11px;
+}
+
+section.breadcrumb-area.heor-area .owl-nav .owl-prev, 
+section.breadcrumb-area.heor-area .owl-nav .owl-next {
+    display: none;
+}
+
+
+section.breadcrumb-area h2 {
+    font-size: 26px;
+}
+
+section.breadcrumb-area span {
+    font-size: 12px;
+}
+section.best-attorneys-area .attorneys-author .col-lg-4 {
+    flex: 0 0 100%;
+}
+
+
+
+
+}
+/* media quary max-width-575.98px end 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
